@@ -1,0 +1,9 @@
+# Default ignored files
+*.iml
+jacoco.exec
+build
+.idea
+.gradle
+local.properties
+/build/
+/ims
